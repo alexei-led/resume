@@ -2,9 +2,9 @@
 
 ## **Cloud Architect & Technical Leader**
 
-:email: Email: [alexei.led@gmail.com](mailto:alexei.led@gmail.com) | :iphone: Phone: [+972-52-5697080](tel:+972525697080) | :israel: Location: Israel (Remote)
+📧 Email: [alexei.led@gmail.com](mailto:alexei.led@gmail.com) | 📱 Phone: [+972-52-5697080](tel:+972525697080) | 🇮🇱 Location: Israel (Remote)
 
-:technologist: LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/alexeiledenev/) | :octocat: GitHub: [GitHub Profile](https://github.com/alexei-led) | :memo: Medium: [Medium Profile](https://medium.com/@alexeiled)
+🧑🏻‍💻 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/alexeiledenev/) | 🛠️ GitHub: [GitHub Profile](https://github.com/alexei-led) | 📝 Medium: [Medium Profile](https://medium.com/@alexeiled)
 
 ---
 
@@ -36,7 +36,7 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 - Led the development of company open-source projects focused on cloud security, performance, and operations, contributing to the broader tech community.
 - Played a crucial role in securing and expanding client relationships by delivering expert architectural consulting and strategic cloud solutions.
 
----
+<div style="page-break-after: always;"></div>
 
 #### **Open Source Developer**
 
@@ -71,7 +71,7 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 - Collaborated closely with cross-functional teams to share customer feedback and influence the AWS roadmap, ensuring the platform evolved in line with customer needs.
 - Specialized in containerization and Kubernetes as a member of the Containers Technical Field Community, contributing to the development and optimization of container-based solutions.
 
----
+<div style="page-break-after: always;"></div>
 
 #### **Chief of Research**
 
