@@ -1,6 +1,6 @@
 # Alexei Ledenev
 
-## Cloud Architect & Technical Leader**
+## **Cloud Architect & Technical Leader**
 
 :email: Email: [alexei.led@gmail.com](mailto:alexei.led@gmail.com) | :iphone: Phone: [+972-52-5697080](tel:+972525697080) | :israel: Location: Israel (Remote)
 
