@@ -145,11 +145,10 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 ### **Certification**
 
 - **Google Cloud Professional Cloud Architect**
-  Credential ID: [Link to Certificate] | November 2019
+- **Google Cloud Authorized Trainer**
 - **AWS Solutions Architect – Professional**
-  Credential ID: [Link to Certificate] | June 2020
+- **AWS Authorized Instructor**
 - **Certified Kubernetes Administrator (CKA)**
-  CNCF | June 2021
 
 ---
 
