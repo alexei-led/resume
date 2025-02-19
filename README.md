@@ -27,3 +27,9 @@ For a detailed overview of my career, skills, and achievements, please refer to 
 ## Education
 
 **M.Sc. in Computer Science**, Tel-Aviv University
+
+## Build PDF Resume
+
+```shell
+md-to-pdf resume.md
+```

@@ -21,7 +21,7 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 **DoiT International** | September 2019 – Present
 
 - Lead cloud architecture initiatives, partnering with clients to design, build, and optimize services on AWS, Google Cloud Platform (GCP), and Azure.
-- Build, lead, and manage a high-performing team of Cloud Architects, providing strategic guidance, conducting architecture reviews, and ensuring alignment with best practices.
+- Build, lead, and manage a high-performing remote team of Cloud Architects, providing strategic guidance, conducting architecture reviews, and ensuring alignment with best practices.
 - Drive the adoption of cloud-native technologies, implementing scalable and cost-efficient solutions tailored to client needs.
 - Deliver certified training sessions on AWS and GCP, enabling organizations to maximize their use of cloud technologies.
 - Engage with cross-functional teams, including sales, operations, security, and business stakeholders, to drive the successful adoption of cloud-native solutions.
@@ -29,14 +29,13 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 
 **Key Achievements:**
 
-- Mentored and developed a team of Senior Cloud Architects, driving career growth and significantly enhancing the team’s overall technical expertise.
+- Mentored and developed a distributed team of Senior Cloud Architects, driving career growth and significantly enhancing the team’s overall technical expertise.
 - Developed an internal ticket routing system that significantly improved proper ticket assignment and the quality of service.
+- Developed an AI workflow for AWS invoice processing, reducing manual work and improving accuracy.
 - Conducted research and designed innovative solutions that were successfully integrated into the DoiT Platform (cloud FinOps service), enhancing its capabilities and value to customers.
 - Redesigned and implemented new processes for the Cloud Architects teams, resulting in more consistent, high-quality service delivery in cloud support, consulting, and training.
 - Led the development of company open-source projects focused on cloud security, performance, and operations, contributing to the broader tech community.
 - Played a crucial role in securing and expanding client relationships by delivering expert architectural consulting and strategic cloud solutions.
-
-<div style="page-break-after: always;"></div>
 
 #### **Open Source Developer**
 
@@ -70,8 +69,6 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 - Evangelized AWS technologies at internal and external events, including conferences, meetups, and user groups, contributing to increased cloud adoption and awareness.
 - Collaborated closely with cross-functional teams to share customer feedback and influence the AWS roadmap, ensuring the platform evolved in line with customer needs.
 - Specialized in containerization and Kubernetes as a member of the Containers Technical Field Community, contributing to the development and optimization of container-based solutions.
-
-<div style="page-break-after: always;"></div>
 
 #### **Chief of Research**
 
