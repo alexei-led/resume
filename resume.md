@@ -16,9 +16,19 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 
 ### **Professional Experience**
 
+#### **Senior Software Engineer**
+
+**DoiT International** | April 2025 – Present
+
+- DCI (DoiT Cloud Intelligence) platform migration to AWS/EKS (from GCP), ensuring scalable and reliable cloud infrastructure.
+- Architect and implement the migration from BigQuery to ClickHouse, focusing on improving query performance and reducing operational costs.
+- Drive BigQuery performance and cost optimization initiatives, delivering measurable savings and efficiency gains.
+
+---
+
 #### **Staff Cloud Architect**
 
-**DoiT International** | September 2019 – Present
+**DoiT International** | September 2019 – April 2025
 
 - Lead cloud architecture initiatives, partnering with clients to design, build, and optimize services on AWS, Google Cloud Platform (GCP), and Azure.
 - Build, lead, and manage a high-performing remote team of Cloud Architects, providing strategic guidance, conducting architecture reviews, and ensuring alignment with best practices.
