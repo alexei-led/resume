@@ -16,7 +16,7 @@ Experienced Cloud Architect and Technical Leader with over 20 years of experienc
 
 ### **Professional Experience**
 
-#### **Senior Software Engineer**
+#### **Principal Software Engineer**
 
 **DoiT International** | April 2025 – Present
 
