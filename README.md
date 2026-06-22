@@ -1,35 +1,31 @@
 # Alexei Ledenev
 
-## Cloud Architect & Technical Leader
+## Principal Architect / Engineer — Agentic AI, Cloud & Data Platforms
 
-Welcome to my GitHub repository! This repository contains my resume and showcases my professional journey, skills, and accomplishments as a Cloud Architect and Technical Leader.
+This repository contains my public resume in Markdown and PDF format.
 
-For a detailed overview of my career, skills, and achievements, please refer to my [resume](resume.md).
+For the full resume, see [resume.md](resume.md).
 
 ## Public Profiles
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alexeiledenev/)
-- **GitHub:** [GitHub Profile](https://github.com/alexei-led)
-- **Medium:** [Medium Profile](https://medium.com/@alexei.led)
+- **LinkedIn:** [linkedin.com/in/alexeiledenev](https://www.linkedin.com/in/alexeiledenev/)
+- **GitHub:** [github.com/alexei-led](https://github.com/alexei-led)
+- **Medium:** [medium.com/@alexei.led](https://medium.com/@alexei.led)
 
-## Skills
+## Areas of Focus
 
-- **Cloud Platforms:** AWS, Google Cloud
-- **Container Technologies:** Kubernetes, Docker
-- **Programming Languages:** Go, Java, Python, Shell Scripting
-- **DevOps & CI/CD:** GitHub Actions, Terraform
-- **Software Architecture:** Microservices, Serverless, Distributed Systems
-- **Testing & Quality Assurance:** Chaos Engineering, Performance Testing, Security Testing, Test Management, Test Automation
-- **Leadership:** Team Management, Agile Project Management, Architecture Governance, Mentoring
-- **Public Speaking:** Technical Blogging, Conference Presentations, Meetups
-- **Open-Source:** Maintaining and Contributing to Projects
+- **Agentic AI:** multi-agent systems, MCP tooling, safety guardrails, human-approved execution
+- **Cloud Platforms:** AWS, GCP, Azure, Kubernetes, Docker, Cloud Run
+- **Data Platforms:** BigQuery, ClickHouse, FinOps analytics
+- **Engineering:** Go, Python, TypeScript, Shell, distributed systems, platform engineering
+- **Delivery:** Terraform, GitHub Actions, CI/CD, IAM, architecture governance, mentoring
 
 ## Education
 
-**M.Sc. in Computer Science**, Tel-Aviv University
+**M.Sc. in Computer Science**, Tel Aviv University
 
 ## Build PDF Resume
 
 ```shell
-md-to-pdf resume.md
+md-to-pdf resume.md --stylesheet resume.css
 ```
