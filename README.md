@@ -1,6 +1,6 @@
 # Alexei Ledenev
 
-## Principal Architect / Engineer — Agentic AI, Cloud & Data Platforms
+## Principal Software Architect — Agentic SDLC, Developer Platforms & Multi-Cloud SaaS
 
 This repository contains my public resume in Markdown and PDF format.
 
