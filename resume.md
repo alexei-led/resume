@@ -62,11 +62,9 @@ Progression across Hewlett-Packard, Mercury Interactive, Mer Technologies, and M
 
 **Selected foundational engineering — Mercury Interactive, TestDirector / Quality Center**
 
-- Designed key infrastructure behind **Open Test Architecture (OTA)**, the programmable SDK for TestDirector, which later became Quality Center and HP ALM.
-- Created a cross-language RPC layer that projected COM/DCOM interfaces over HTTP between ActiveX and native C++ clients and a Java application server, preserving the SDK's object-oriented programming model.
-- Built interface-driven code generators producing **C++/ATL client proxies** and **Java server-side bindings and dispatch code**.
-- Invented **FREC**, a recursive, length-prefixed binary serialization format supporting nested and extensible data structures.
-- Established a clean boundary between the TestDirector UI and OTA SDK, helping turn the product into an extensible platform for test automation, defect tracking, reporting, workflow, and customer integrations.
+- Designed core infrastructure for **Open Test Architecture (OTA)**, the programmable TestDirector SDK that later became Quality Center and HP ALM; established the UI/SDK boundary for test automation, defect tracking, reporting, workflow, and integrations.
+- Built cross-language RPC over HTTP between ActiveX/native C++ clients and a Java application server, preserving the SDK's object-oriented model with generated **C++/ATL proxies** and **Java bindings/dispatch code**.
+- Invented **FREC**, a recursive, length-prefixed binary serialization format for nested, extensible data structures.
 
 ### Open Source & Community
 
