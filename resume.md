@@ -60,6 +60,12 @@ _Codefresh builds a container-native CI/CD and developer-workflow SaaS platform.
 
 Progression across Hewlett-Packard, Mercury Interactive, Mer Technologies, and Myriad Interactive from hands-on engineering into technical leadership, R&D management, and architecture.
 
+**Selected foundational engineering — Mercury Interactive, TestDirector / Quality Center**
+
+- Designed core infrastructure for **Open Test Architecture (OTA)**, the programmable TestDirector SDK that later became Quality Center and HP ALM; established the UI/SDK boundary for test automation, defect tracking, reporting, workflow, and integrations.
+- Built cross-language RPC over HTTP between ActiveX/native C++ clients and a Java application server, preserving the SDK's object-oriented model with generated **C++/ATL proxies** and **Java bindings/dispatch code**.
+- Invented **FREC**, a recursive, length-prefixed binary serialization format for nested, extensible data structures.
+
 ### Open Source & Community
 
 - **[Pumba](https://github.com/alexei-led/pumba)** (Go, **3K+★**) — Creator and maintainer. Chaos engineering for containers: network emulation, fault injection, and stress/performance testing across Docker, Podman, and containerd; used in production resilience testing by engineering teams worldwide.
@@ -72,7 +78,7 @@ Progression across Hewlett-Packard, Mercury Interactive, Mer Technologies, and M
 
 - **AI / Agentic Systems:** LLM application architecture, Model Context Protocol (MCP), multi-agent systems, safety guardrails, evaluation, LangChain, AutoGen, prompt and instruction design
 - **Cloud / Platform:** AWS, GCP, Azure, Kubernetes, EKS, GKE, Docker, Cloud Run, BigQuery, ClickHouse, FinOps analytics
-- **Engineering:** Go, Python, TypeScript/Node.js, Shell, SaaS platforms, distributed systems, microservices, event-driven architectures (GCP Pub/Sub, AWS SQS), platform engineering, internal developer tooling, modular architecture
+- **Engineering:** Go, Python, TypeScript/Node.js, Java, C++, SaaS platforms, distributed systems, RPC, binary serialization, code generation, SDK/API design, microservices, event-driven architectures (GCP Pub/Sub, AWS SQS), platform engineering, internal developer tooling, modular architecture
 - **DevOps / Leadership:** Terraform, GitHub Actions, CI/CD, least-privilege IAM, secure sandboxed execution, tenant-aware SaaS design, distributed teams, hiring, mentoring, architecture governance, customer advisory
 
 ### Education, Certifications & Patents

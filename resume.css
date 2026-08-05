@@ -59,6 +59,8 @@ h4 {
   font-weight: 750;
   line-height: 1.18;
   margin: 10px 0 3px;
+  break-after: avoid;
+  page-break-after: avoid;
 }
 
 p {
